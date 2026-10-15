@@ -4,7 +4,6 @@
 > This repository will host the official implementation of the paper
 > **"Deep Koopman EMPC for Optimal Energy Management of Fuel Cell Electric Vehicles"**.
 > The paper is currently under review, and the full code will be released here soon.
-> Watch or star the repository to be notified when it goes live.
 
 ## Overview
 
