@@ -11,7 +11,7 @@
 This work addresses energy management of a fuel cell electric vehicle (FCEV) with a
 data-driven economic model predictive control (EMPC) framework. A deep Koopman network
 lifts the nonlinear powertrain dynamics into a latent space where they evolve linearly,
-so the economic MPC reduces to a convex quadratic program that can be solved in real time.
+so the economic MPC reduces to a convex optimization problem that can be solved in real time.
 
 
 ## Citation
